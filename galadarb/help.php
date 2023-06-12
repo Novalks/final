@@ -14,6 +14,7 @@
                     The website is designed for communication outside the game. To ask various questions about the game and communicate with other users.
                     </div>
                 </div>
+            </div>
     <script>
     function back() {
                     window.location.href = "http://into.id.lv/ip19/arnis/galadarb/home.php";
