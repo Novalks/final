@@ -19,5 +19,4 @@
                     window.location.href = "http://into.id.lv/ip19/arnis/galadarb/home.php";
                 }
     </script>
-</body>
 </html>
